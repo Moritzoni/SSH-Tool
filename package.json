@@ -76,7 +76,7 @@
     "@ngx-translate/http-loader": "6.0.0",
     "@types/jasmine": "3.6.7",
     "@types/jasminewd2": "2.0.8",
-    "@types/mocha": "8.0.3",
+    "@types/mocha": "8.2.2",
     "@types/node": "12.12.6",
     "@types/ping": "0.2.0",
     "@typescript-eslint/eslint-plugin": "4.2.0",
